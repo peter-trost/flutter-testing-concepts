@@ -132,6 +132,6 @@ jobs:
           fi
       - name: Empty upload to pass codecov checks
         if: ${{ needs.check-changed-files.outputs.any-tests-to-run == 'false' }}
-        uses: codecov/codecov-action@v5
+        uses: codecov/codecov-action@v6
         with:
           run_command: empty-upload
