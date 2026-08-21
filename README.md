@@ -1,7 +1,7 @@
 # Flutter Testing Concepts 🧪🎯
 
-![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/Peetee06/flutter-testing-concepts?utm_source=oss&utm_medium=github&utm_campaign=Peetee06%2Fflutter-testing-concepts&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
-[![codecov](https://codecov.io/github/Peetee06/flutter-testing-concepts/graph/badge.svg?token=OLSRHUU808)](https://codecov.io/github/Peetee06/flutter-testing-concepts)
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/peter-trost/flutter-testing-concepts?utm_source=oss&utm_medium=github&utm_campaign=peter-trost%2Fflutter-testing-concepts&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+[![codecov](https://codecov.io/github/peter-trost/flutter-testing-concepts/graph/badge.svg?token=OLSRHUU808)](https://codecov.io/github/peter-trost/flutter-testing-concepts)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This repository showcases practical examples of Flutter testing concepts, aiming to empower developers to embrace Test-Driven Development (TDD) 💡. It provides hands-on examples for building a simple Flutter application with 100% test coverage using unit, widget, and integration tests.
@@ -35,7 +35,7 @@ Follow these steps to get the project running locally and execute the tests:
 **2. Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Peetee06/flutter-testing-concepts.git
+   git clone https://github.com/peter-trost/flutter-testing-concepts.git
    cd flutter-testing-concepts
    ```
 

@@ -13,7 +13,7 @@ part of 'rest_client.dart';
 class _RestClient implements RestClient {
   _RestClient(this._dio, {this.baseUrl, this.errorLogger}) {
     baseUrl ??=
-        'https://raw.githubusercontent.com/Peetee06/flutter-testing-concepts/refs/heads/main/';
+        'https://raw.githubusercontent.com/peter-trost/flutter-testing-concepts/refs/heads/main/';
   }
 
   final Dio _dio;

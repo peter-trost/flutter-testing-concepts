@@ -11,7 +11,7 @@ abstract class RestClient {
   factory RestClient(Dio dio, {String baseUrl}) = _RestClient;
 
   static const baseUrl =
-      'https://raw.githubusercontent.com/Peetee06/flutter-testing-concepts/refs/heads/main/';
+      'https://raw.githubusercontent.com/peter-trost/flutter-testing-concepts/refs/heads/main/';
 
   @GET('/mock_concepts.json')
   Future<List<Concept>> getConcepts();

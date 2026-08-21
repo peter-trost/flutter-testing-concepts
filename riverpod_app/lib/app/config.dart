@@ -8,7 +8,7 @@ part 'config.g.dart';
 abstract class AppConfig with _$AppConfig {
   const factory AppConfig({
     @Default(
-      'https://raw.githubusercontent.com/Peetee06/flutter-testing-concepts/refs/heads/main/',
+      'https://raw.githubusercontent.com/peter-trost/flutter-testing-concepts/refs/heads/main/',
     )
     String baseUrl,
   }) = _AppConfig;

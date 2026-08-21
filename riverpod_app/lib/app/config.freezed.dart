@@ -233,7 +233,7 @@ extension AppConfigPatterns on AppConfig {
 class _AppConfig implements AppConfig {
   const _AppConfig(
       {this.baseUrl =
-          'https://raw.githubusercontent.com/Peetee06/flutter-testing-concepts/refs/heads/main/'});
+          'https://raw.githubusercontent.com/peter-trost/flutter-testing-concepts/refs/heads/main/'});
 
   @override
   @JsonKey()
