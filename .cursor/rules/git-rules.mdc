@@ -26,7 +26,7 @@ Follow these rules closely when working with git and GitHub.
 
 ### GitHub
 
-- The owner of this repository is `Peetee06`
+- The owner of this repository is `peter-trost`
 - The repository is called `flutter-testing-concepts`
 - The default branch is `main` - use it as the base branch when creating new branches if not otherwise specified
 
